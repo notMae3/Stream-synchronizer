@@ -1,5 +1,5 @@
 # Stream synchronizer
-Takes a timestamp relative to twitch VOD 1 and calculates the translated timestamp of VOD 2. This allows you to easily view a moment from a twitch collab from a different persepctive without having to search for the timestamp.
+Takes a timestamp relative to stream 1 and calculates the translated timestamp of stream 2. This allows you to easily view a moment from a twitch collab from a different persepctive without having to search for the timestamp. Supports VODs and currently-live streams for both twitch and youtube.
 
 ![Example image of the program showing the timestamp 02:12:35, which is relative to stream 2, translated onto stream 1 where the timestamp is 04:56:11](/demo%20img.png)
 
